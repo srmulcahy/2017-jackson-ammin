@@ -17,8 +17,8 @@ This repository contains electron probe microanalysis (EPMA) data and python jup
 ## Project Folders
 
 - [src](https://github.com/srmulcahy/2017-jackson-ammin/tree/master/src): python jupyter notebooks
-    - *phillipsite-ternary.ipynb*: Calculate formula units and uncertainties from EPMA data. Plot ternary phillipsite compositions shown in mansucript figures
-    - *tobermorite-ternary.ipynb*: Calculate formula units and uncertainties from EPMA data. Plot ternary tobermoreite compositions shown in mansucript figures
+    - *[phillipsite-ternary.ipynb](https://github.com/srmulcahy/2017-jackson-ammin/blob/master/src/phillipsite-ternary.ipynb)*: Calculate formula units and uncertainties from EPMA data. Plot ternary phillipsite compositions shown in mansucript figures
+    - *[tobermorite-ternary.ipynb](https://github.com/srmulcahy/2017-jackson-ammin/blob/master/src/tobermorite-ternary.ipynb)*: Calculate formula units and uncertainties from EPMA data. Plot ternary tobermoreite compositions shown in mansucript figures
 - [data](https://github.com/srmulcahy/2017-jackson-ammin/tree/master/data): raw data used in analysis
     - *phillipsite-oxide.csv*: phillipsite EPMA weight% oxides analyzed in this study
     - *phillipsite-oxide-2sigma.csv*: 2-sigma absolute uncertainty of analyzed phillipsite EPMA weight% oxides
