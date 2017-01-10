@@ -32,7 +32,7 @@ This repository contains electron probe microanalysis (EPMA) data and python jup
     - *tobermorite-cation-error.csv*: 2-sigma absolute uncertainty for calculated tobermorite formulas
     - *tobermorite-cations-plotting.csv*: Tobermorite formula units grouped by sample plotting category
     - *tobermorite-literature.csv*: Published EPMA tobermorite compositions 
-- [fig](https://github.com/srmulcahy/2017-jackson-ammin/tree/master/figs): svg plots from python scripts
+- [figs](https://github.com/srmulcahy/2017-jackson-ammin/tree/master/figs): svg plots from python scripts
     - *phillipsite-CMNK-jacksonetal.svg*: Ca+Mg-Na-K ternary of analyzed phillipsite compositions
     - *phillipsite-CMNK-published.svg*: Ca+Mg-Na-K ternary of previously published phillipsite compositions
     - *phillipsite-SDM-jacksonetal.svg*: Si-D-M ternary of analyzed phillipsite compositions
