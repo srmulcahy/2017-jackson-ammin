@@ -16,10 +16,10 @@ This repository contains electron probe microanalysis (EPMA) data and python jup
 
 ## Project Folders
 
-- [src](): python jupyter notebooks
+- [src](https://github.com/srmulcahy/2017-jackson-ammin/tree/master/src): python jupyter notebooks
     - *phillipsite-ternary.ipynb*: Calculate formula units and uncertainties from EPMA data. Plot ternary phillipsite compositions shown in mansucript figures
     - *tobermorite-ternary.ipynb*: Calculate formula units and uncertainties from EPMA data. Plot ternary tobermoreite compositions shown in mansucript figures
-- [data](): raw data used in analysis
+- [data](https://github.com/srmulcahy/2017-jackson-ammin/tree/master/data): raw data used in analysis
     - *phillipsite-oxide.csv*: phillipsite EPMA weight% oxides analyzed in this study
     - *phillipsite-oxide-2sigma.csv*: 2-sigma absolute uncertainty of analyzed phillipsite EPMA weight% oxides
     - *phillipsite-cation.csv*: Phillipsite formula units calcuated from the EPMA weight% oxide
@@ -32,7 +32,7 @@ This repository contains electron probe microanalysis (EPMA) data and python jup
     - *tobermorite-cation-error.csv*: 2-sigma absolute uncertainty for calculated tobermorite formulas
     - *tobermorite-cations-plotting.csv*: Tobermorite formula units grouped by sample plotting category
     - *tobermorite-literature.csv*: Published EPMA tobermorite compositions 
-- [fig](): svg plots from python scripts
+- [fig](https://github.com/srmulcahy/2017-jackson-ammin/tree/master/figs): svg plots from python scripts
     - *phillipsite-CMNK-jacksonetal.svg*: Ca+Mg-Na-K ternary of analyzed phillipsite compositions
     - *phillipsite-CMNK-published.svg*: Ca+Mg-Na-K ternary of previously published phillipsite compositions
     - *phillipsite-SDM-jacksonetal.svg*: Si-D-M ternary of analyzed phillipsite compositions
