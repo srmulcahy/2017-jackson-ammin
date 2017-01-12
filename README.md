@@ -1,7 +1,5 @@
 # Jackson et al., 2017
 
-EPMA data and analysis for Jackson et al., 2017
-
 **Phillipsite and Al-tobermorite produced by cementitious water-rock reactions in Roman marine concrete**
 
 *Marie D. Jackson, Sean R. Mulcahy, Heng Chen, Yao Li, Qinfei Li, Piergiulio Cappelletti, Hans-Rudolf Wenk*
