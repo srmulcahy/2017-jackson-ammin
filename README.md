@@ -11,7 +11,7 @@ This repository contains electron probe microanalysis (EPMA) data and python jup
 
 **Cite as:**
 
-Jackson, M.D., Mulcahy, S.R., Chen, H., Li, Y., Li, Q., Cappelletti, P., and Wenk, H.-R., 2017, Phillipsite and Al-tobermorite produced by cementitious water-rock reactions in Roman marine concrete, American Mineralogist, doi:[]().
+Jackson, M.D., Mulcahy, S.R., Chen, H., Li, Y., Li, Q., Cappelletti, P., and Wenk, H.-R., 2017, Phillipsite and Al-tobermorite produced by cementitious water-rock reactions in Roman marine concrete, *American Mineralogist*, doi:[]().
 
 Code and data set archived on Zenodo: 
 
