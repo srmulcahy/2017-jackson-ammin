@@ -45,6 +45,8 @@ Code and data set archived on Zenodo:
 
 ## Python Packages
 
+The code in this repository was written with [Python 3](https://www.python.org/download/releases/3.0/) using the packages below.  The easiest way to install the software on any operating system is with [Anaconda](https://www.continuum.io/downloads) or [Miniconda](http://conda.pydata.org/miniconda.html).
+
 - [ipython/jupyter](https://ipython.org/) Pérez, F., and Granger, B.E., 2007, IPython: a system for interactive scientific computing: Computing in Science & Engineering, v. 9, no. 3, p. 21–29.
 - [matplotlib](http://matplotlib.org/) Hunter, J.D., and others, 2007, Matplotlib: A 2D graphics environment: Computing in science and engineering, v. 9, no. 3, p. 90–95.
 - [numpy](http://www.numpy.org/) Van Der Walt, S., Colbert, S.C., and Varoquaux, G., 2011, The NumPy array: a structure for efficient numerical computation: Computing in Science & Engineering, v. 13, no. 2, p. 22–30.
