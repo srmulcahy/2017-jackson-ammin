@@ -4,14 +4,14 @@
 
 *Marie D. Jackson, Sean R. Mulcahy, Heng Chen, Yao Li, Qinfei Li, Piergiulio Cappelletti, Hans-Rudolf Wenk*
 
-[doi:](http://doi.org/)
+[doi:10.2138/am-2017-5993CCBY](http://doi.org/10.2138/am-2017-5993CCBY)
 
 ## Summary
 This repository contains electron probe microanalysis (EPMA) data and python jupyter notebooks to plot ternary diagrams in Figures 3 and 4 of Jackson et al., 2017.
 
 **Cite as:**
 
-Jackson, M.D., Mulcahy, S.R., Chen, H., Li, Y., Li, Q., Cappelletti, P., and Wenk, H.-R., 2017, Phillipsite and Al-tobermorite produced by cementitious water-rock reactions in Roman marine concrete, *American Mineralogist*, doi:[]().
+Jackson, M.D., Mulcahy, S.R., Chen, H., Li, Y., Li, Q., Cappelletti, P., and Wenk, H.-R., 2017, Phillipsite and Al-tobermorite produced by cementitious water-rock reactions in Roman marine concrete, *American Mineralogist*, [doi:10.2138/am-2017-5993CCBY](http://doi.org/10.2138/am-2017-5993CCBY).
 
 Code and data set archived on Zenodo: 
 
